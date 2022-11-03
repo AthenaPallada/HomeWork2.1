@@ -18,7 +18,7 @@ public class Main {
         System.out.println("cat = " + cat);
         System.out.println("paper = " + paper);
 
-        //Задача 3
+        // Задача 3
         System.out.println("Задача 3");
         var dog1 = 8.0;
         dog1 = dog1 - 3.5;
